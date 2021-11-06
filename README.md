@@ -1,6 +1,6 @@
 ### 
 
-![alt text](./developermendoza/developermendoza/images/banner.png)
+![plot](./developermendoza/developermendoza/images/banner.png)
 
 
 
