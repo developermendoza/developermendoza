@@ -2,7 +2,7 @@
 
 <!-- ![banner](https://github.com/developermendoza/developermendoza/blob/main/images/banner.png) -->
 
-[<img src="https://github.com/developermendoza/developermendoza/blob/main/images/banner.png">](https://youtube.com/c/javascriptmastery)
+[<img src="https://github.com/developermendoza/developermendoza/blob/main/images/banner.png">](http://jjmendoza.com/)
 
 
 
