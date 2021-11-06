@@ -1,6 +1,6 @@
 ### 
 
-![plot](./developermendoza/developermendoza/tree/main/images/banner.png)
+![banner](https://github.com/developermendoza/developermendoza/blob/main/images/banner.png)
 
 
 
