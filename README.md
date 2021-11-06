@@ -1,6 +1,6 @@
 ### 
 
-![alt text](https://github.com/developermendoza/developermendoza/images/banner.png?raw=true)
+![alt text](./developermendoza/developermendoza/images/banner.png)
 
 
 
